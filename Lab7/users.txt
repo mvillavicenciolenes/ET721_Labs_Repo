@@ -1,0 +1,43 @@
+1. Peter Parker, NYC, 28
+2. Bruce Wayne, Gotham, 35
+3. Clark Kent, Metropolis, 33
+4. Tony Stark, LA, 38
+5. Steve Rogers, Brooklyn, 102
+6. Natasha Romanoff, NYC, 30
+7. Barry Allen, Central City, 27
+8. Diana Prince, Themyscira, 28
+9. Arthur Curry, Atlantis, 32
+10. Wade Wilson, NYC, 31
+11. Logan Howlett, Canada, 137
+12. Charles Xavier, Westchester, 60
+13. Erik Lehnsherr, Warsaw, 65
+14. Jean Grey, Westchester, 27
+15. Scott Summers, Westchester, 29
+16. Hank McCoy, Westchester, 31
+17. Peter Quill, Space, 35
+18. Gamora Zen Whoberi, Space, 29
+19. Rocket Raccoon, Space, 11
+20. Groot, Space, 200
+21. Drax the Destroyer, Space, 35
+22. Stephen Strange, NYC, 42
+23. Wanda Maximoff, Sokovia, 29
+24. Vision, NYC, 3
+25. Sam Wilson, DC, 35
+26. Bucky Barnes, Brooklyn, 101
+27. Clint Barton, Iowa, 37
+28. T’Challa, Wakanda, 32
+29. Shuri, Wakanda, 21
+30. Peter Parker, Queens, 17
+31. Eddie Brock, San Francisco, 33
+32. Matt Murdock, Hell's Kitchen, 30
+33. Jessica Jones, NYC, 31
+34. Luke Cage, Harlem, 35
+35. Frank Castle, NYC, 39
+36. Elektra Natchios, Greece, 29
+37. Karen Page, NYC, 32
+38. Foggy Nelson, NYC, 31
+39. J Jonah Jameson, NYC, 58
+40. Nick Fury, Washington DC, 55
+
+John from New York is 30 years
+John from New York is 30 years
