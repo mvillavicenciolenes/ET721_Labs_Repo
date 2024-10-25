@@ -20,18 +20,22 @@ def usercountry(countryname="Pakistan"):
 
 # Example 4: Function that passes and returns a value
 def triplenumber(num):
-    return 3 * (num)
+    return 3 * num
 
 # Example 5: Function that passes two numbers and checks if they are divisible by each other. The function returns true or false depending on conditions.
 def isdivisible(n1, n2):
-    if n1 % n2 == 0 or n2 % n1 == 0:
+    if n2 != 0 and n1 % n2 == 0 or n1 != 0 and n2 % n1 == 0:
         return True
     else:
         return False
 
-#example 8:
+# Example 6: Function that calculates and returns the circumference of a circle
+def circumference(radius):
+    return 2 * math.pi * radius
+
+# Example 8: Function that simulates rolling a dice
 def rolldice():
-    return random.randint(1,6)
+    return random.randint(1, 6)
 
 # Call a function that doesn't return nor pass a value
 print("\n ----------- Example 1 ------------ ")
@@ -63,9 +67,8 @@ print(f"The circumference of a circle with radius {r} is {c:.2f}")
 
 print("\n ----------- Example 7: Generate random numbers ------------ ")
 print(f"Random float between 0 and 1: {random.random()}")
-print(f"Random float between -5 and 5: {random.uniform(-5,5)}")
-print(f"Random integer between -10 and 10: {random.randint(-10,10)}")
+print(f"Random float between -5 and 5: {random.uniform(-5, 5)}")
+print(f"Random integer between -10 and 10: {random.randint(-10, 10)}")
 
 print("\n ----------- Example 8: Roll a dice ------------ ")
 print(f"Dice number is {rolldice()}")
-
