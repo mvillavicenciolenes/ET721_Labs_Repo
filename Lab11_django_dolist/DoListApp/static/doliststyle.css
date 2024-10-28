@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+  }
+  .maincontainer {
+    width: 1000px;
+    background-color: aliceblue;
+    margin: 5em auto;
+    padding: 2em;
+  }
+  .apptitle {
+    text-align: center;
+  }
+  .dolistform {
+    margin-top: 2em;
+  }
+  .formgroup {
+    margin-top: 2em;
+  }
+  .todo_text {
+    padding: 0.5em;
+    border-radius: 5px;
+    border: solid gray 1px;
+    width: 400px;
+  }
+  .btnadd{background-color: olive;}
+  .btnadd, .btn_deleteall, .btn_deleteeach{
+      background-color: crimson;
+      border: none;
+      padding: 0.5em 2em;
+      border-radius: 5px;
+      color: whitesmoke;
+  }
+  .btn_deleteall:hover, .btn_deleteeach:hover{
+      background-color: darkred;
+      font-weight: bolder;
+  }
+  .btnadd:hover{
+      background-color: gray;
+      cursor: pointer;
+  }
