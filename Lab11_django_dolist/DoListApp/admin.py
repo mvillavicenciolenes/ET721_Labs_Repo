@@ -1,6 +1,6 @@
 # DoListApp/admin.py
 from django.contrib import admin
-from .models import ToDolist
+from .models import TodoList
 
 # Register your models here.
-admin.site.register(ToDolist)
+admin.site.register(TodoList)
