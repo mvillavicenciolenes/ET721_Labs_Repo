@@ -38,3 +38,21 @@
       background-color: gray;
       cursor: pointer;
   }
+
+  /* to do list */
+
+  .listdo{
+    padding: 0px;
+  }
+
+  .listitem{
+    padding: 20px;
+    background-color: rgb(230, 230, 230);
+    list-style: none;
+  }
+  .completed{
+    color:whitesmoke;
+    text-decoration: line-through;
+    background-color: rgb(50, 50, 50);
+  }
+  
