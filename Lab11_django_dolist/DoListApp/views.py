@@ -1,4 +1,3 @@
-# DoListApp/views.py
 from django.shortcuts import render, redirect, get_object_or_404
 from .models import TodoList
 
@@ -16,6 +15,10 @@ def add_task(request):
 
 def delete_all_completed(request):
     TodoList.objects.filter(completed=True).delete()
+    return redirect('index')
+
+def delete_all(request):
+    TodoList.objects.all().delete()
     return redirect('index')
 
 def complete_task(request, task_id):
